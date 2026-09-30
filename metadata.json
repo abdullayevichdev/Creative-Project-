@@ -1,0 +1,6 @@
+{
+  "name": "Abyssal Reef - Immersive Underwater World",
+  "description": "A photorealistic, highly immersive living underwater aquarium and ocean reef environment with real marine life, volumetric lighting, and organic fish physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
